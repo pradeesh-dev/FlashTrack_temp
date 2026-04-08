@@ -1,0 +1,3 @@
+# Copy this to local.properties and set your Android SDK path
+# This file is NOT committed to git
+sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
